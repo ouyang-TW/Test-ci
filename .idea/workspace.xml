@@ -105,4 +105,10 @@
     <MESSAGE value="git commit error" />
     <option name="LAST_COMMIT_MESSAGE" value="git commit error" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1720" height="897" key="DiffContextDialog" timestamp="1608280064592">
+      <screen x="0" y="23" width="1920" height="1097" />
+    </state>
+    <state x="100" y="123" width="1720" height="897" key="DiffContextDialog/0.23.1920.1097@0.23.1920.1097" timestamp="1608280064592" />
+  </component>
 </project>
