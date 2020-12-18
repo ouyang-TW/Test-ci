@@ -1,2 +1,2 @@
 # Test-ci
-test ci
+test ci 1
